@@ -1,0 +1,20 @@
+social:
+  Instagram: https://instagram.com/souldust
+  Facebook: https://facebook.com/souldust
+
+gigs:
+  May 28, 2022:
+    Name: Reve Bivouac & Family Piknik Festival
+    # pas obligatoire
+    Info: w/ Anja Schneider, Marc Romboy & many more 
+    # pas obligatoire
+    URL: https://revebivouac.com/nos-bivouacs/the-village-wavre/family-piknik-festival/
+  
+  June 3, 2022:
+    Name: Hedonism Night @ Mirano
+    Info: w/ BOOKA SHADE
+    URL: https://www.librairie.be/tickets/hedonism/
+
+music:
+  - https%3A//api.soundcloud.com/tracks/966352978
+  - https%3A//api.soundcloud.com/playlists/1302370
